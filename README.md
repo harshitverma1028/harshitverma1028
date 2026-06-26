@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Verma</h1>
+<h1 align="center">Hii 👋, I'm Harshit Verma</h1>
 
 <h3 align="center">
 Full Stack MERN Developer • DSA Enthusiast • Problem Solver
