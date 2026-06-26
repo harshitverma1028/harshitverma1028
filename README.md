@@ -1,125 +1,109 @@
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • DSA Enthusiast • Problem Solver
+Full Stack MERN Developer • AI & Machine Learning Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
+I build scalable web applications, AI-powered solutions, and modern full-stack products that solve real-world problems.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 - 🎓 B.Tech Information Technology Student
-- 💻 Full Stack MERN Developer
-- 🤖 Currently building an AI-powered Healthcare Platform
-- 📚 Regularly solving Data Structures & Algorithms problems
-- 🌱 Exploring System Design and Backend Engineering
+- 💻 Full Stack MERN Stack Developer
+- 🚀 Building **Aether**, an AI-powered intelligent platform
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Recommendation Systems & System Design
+- 📚 Solving Data Structures & Algorithms regularly
 - 🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
 </p>
 
-### Frontend
+## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,react" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-### Backend
+## Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+## Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### AI / ML
+## AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
+- Python
 - Scikit-learn
 - Pandas
 - NumPy
+- TensorFlow (Learning)
 
-### Tools
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,firebase" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 🏥 CareFlow AI
+## 🚀 Aether
 
-AI-powered Healthcare Platform that provides
+An AI-powered intelligent platform built to simplify real-world workflows using modern web technologies and machine learning.
 
-- Doctor Recommendation
-- AI Symptom Analysis
-- Appointment Booking
-- Secure Authentication
-- Responsive Dashboard
+### ✨ Features
+
+- 🤖 AI-Powered Assistant
+- 🔐 Secure Authentication
+- 📊 Interactive Dashboard
+- 📈 Analytics
+- ⚡ Fast & Responsive UI
+- 🌐 REST API Integration
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Python • Machine Learning
+React • Node.js • Express.js • MongoDB • Python • Machine Learning
 
 ---
 
-## 🤖 Doctor Recommendation System
 
-Machine Learning model that recommends doctors based on
+## 📚 LeetCode Solutions
 
-- Disease
-- City
-- Location
-- Doctor Specialization
-
----
-
-## 💬 AI Medical Assistant
-
-AI chatbot capable of
-
-- Symptom Analysis
-- Health Guidance
-- Medical Suggestions
-- Healthcare FAQs
-
----
-
-## 📈 LeetCode Journey
-
-- Solving DSA consistently
-- Focus on Interview Preparation
 - Arrays
+- Strings
 - Trees
 - Graphs
-- DP
-- Greedy
+- Dynamic Programming
 - Binary Search
-- System Design
+- Greedy
+- Backtracking
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -131,7 +115,7 @@ AI chatbot capable of
 
 ---
 
-# 📈 Most Used Languages
+# 📊 Most Used Languages
 
 <p align="center">
 
@@ -151,40 +135,87 @@ AI chatbot capable of
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitverma1028&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🎯 Current Focus
 
-- 🚀 Building scalable MERN applications
-- 🤖 AI & Machine Learning
-- 📊 Recommendation Systems
-- ☁️ Backend Development
+- 🚀 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- ⚙️ Backend Engineering
+- ☁️ Cloud Fundamentals
 - 💻 Competitive Programming
 
 ---
 
-# 📫 Connect With Me
+# 🛠 Currently Working On
 
-<p>
+- 🚀 Aether
+- 🤖 AI Recommendation Systems
+- 🏥 Healthcare Applications
+- 📈 Scalable Backend APIs
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/harshitverma1028">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Fun Fact
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+```cpp
+while(!success)
+{
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories!
+# ✨ Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harshitverma1028&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<h4 align="center">
+If you like my work, consider ⭐ starring my repositories.
+</h4>
