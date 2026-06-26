@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • AI & Machine Learning Enthusiast • Problem Solver
+Full Stack MERN Developer • DSA Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
@@ -31,13 +31,13 @@ I build scalable web applications, AI-powered solutions, and modern full-stack p
 ## Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript" />
 </p>
 
 ## Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,react,bootstrap" />
 </p>
 
 ## Backend
@@ -51,14 +51,6 @@ I build scalable web applications, AI-powered solutions, and modern full-stack p
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
-## AI / ML
-
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- TensorFlow (Learning)
 
 ## Tools
 
@@ -173,7 +165,7 @@ React • Node.js • Express.js • MongoDB • Python • Machine Learning
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harshitverma8171@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
