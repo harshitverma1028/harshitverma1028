@@ -68,16 +68,36 @@ An AI-powered intelligent platform built to simplify real-world workflows using 
 
 ### ✨ Features
 
+- 🌐 A platform to manage your office system
 - 🤖 AI-Powered Assistant
 - 🔐 Secure Authentication
 - 📊 Interactive Dashboard
 - 📈 Analytics
 - ⚡ Fast & Responsive UI
-- 🌐 REST API Integration
 
 **Tech Stack**
 
 React • Node.js • Express.js • MongoDB • Python • Machine Learning
+
+---
+
+
+## 🛍️ CampusX
+
+A modern campus marketplace that enables students to **buy and sell products** within their college community. CampusX provides a secure and easy-to-use platform where students can list items, discover deals, and connect directly with buyers or sellers.
+
+### ✨ Features
+
+- 🛒 Buy and sell products within the campus
+- 📦 Create, edit, and manage product listings
+- 🔍 Search and filter products by category
+- 💬 Connect buyers and sellers
+- 👤 Secure user authentication
+- 📱 Responsive and user-friendly interface
+
+### 🛠️ Tech Stack
+
+React • Node.js • Express.js • MongoDB • JWT Authentication
 
 ---
 
