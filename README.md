@@ -9,7 +9,10 @@ I build scalable web applications, AI-powered solutions, and modern full-stack p
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New+🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
