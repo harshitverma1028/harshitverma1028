@@ -226,7 +226,3 @@ while(!success)
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-
-<h4 align="center">
-If you like my work, consider ⭐ starring my repositories.
-</h4>
