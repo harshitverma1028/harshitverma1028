@@ -161,7 +161,6 @@ React • Node.js • Express.js • MongoDB • JWT Authentication
 
 - 🚀 Full Stack Development
 - 🤖 Artificial Intelligence
-- 📊 Machine Learning
 - ⚙️ Backend Engineering
 - ☁️ Cloud Fundamentals
 - 💻 Competitive Programming
