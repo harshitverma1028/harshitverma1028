@@ -19,7 +19,6 @@ I build scalable web applications, AI-powered solutions, and modern full-stack p
 - 🎓 B.Tech Information Technology Student
 - 💻 Full Stack MERN Stack Developer
 - 🚀 Building **Aether**, an AI-powered intelligent platform
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently learning Recommendation Systems & System Design
 - 📚 Solving Data Structures & Algorithms regularly
 - 🎯 Aspiring Software Engineer
