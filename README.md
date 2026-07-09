@@ -182,7 +182,7 @@ React • Node.js • Express.js • MongoDB • JWT Authentication
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/harshitverma1028/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
