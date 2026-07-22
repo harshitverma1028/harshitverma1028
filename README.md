@@ -108,6 +108,8 @@ React • Node.js • Express.js • MongoDB • JWT Authentication
 
 - Arrays
 - Strings
+- Linked List
+- Stack
 - Trees
 - Graphs
 - Dynamic Programming
